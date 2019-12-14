@@ -1,5 +1,5 @@
 Package: ya_package
-Title: Import packages.
+Title: Import packages
 Version: 0.1.0
 Date: 2019-12-14
 Authors@R: as.person(c(
@@ -40,7 +40,6 @@ Imports:
     devtools,
     testthat,
     roxygen2
-License: GPL-2
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.1.1
