@@ -1,6 +1,6 @@
 Package: ya_package
 Title: Import packages
-Version: 0.1.0
+Version: 0.1
 Date: 2019-12-14
 Authors@R: as.person(c(
     "Vinicius Ricardo Riffel <viniciusriffel@ufpr.br> [cre, aut]"))
