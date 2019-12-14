@@ -3,8 +3,7 @@ Title: Import packages
 Version: 0.1.0
 Date: 2019-12-14
 Authors@R: as.person(c(
-    "Vinicius Ricardo Riffel <viniciusriffel@ufpr.br> [cre, aut]",
-    ))
+    "Vinicius Ricardo Riffel <viniciusriffel@ufpr.br> [cre, aut]"))
 Description: This package imports packages.
 Depends:
     R (>= 3.6.0)
