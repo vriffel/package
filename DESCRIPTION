@@ -2,8 +2,8 @@ Package: ya_package
 Title: Import packages
 Version: 0.1
 Date: 2019-12-14
-Authors@R: as.person(c(
-    "Vinicius Ricardo Riffel <viniciusriffel@ufpr.br> [cre, aut]"))
+Authors@R: person(
+    "Vinicius Ricardo", "Riffel", email = "viniciusriffel@ufpr.br", role = c("aut", "cre"))
 Description: This package imports packages.
 License: GPL-3
 LazyData: true
@@ -44,4 +44,3 @@ Imports:
     devtools,
     testthat,
     roxygen2
-RoxygenNote: 6.1.1
