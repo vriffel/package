@@ -40,7 +40,8 @@ Imports:
     RColetum,
     devtools,
     testthat,
-    roxygen2
+    roxygen2,
+    latticeExtra
 License: GPL-3
 LazyData: TRUE
 URL: https://github.com/vriffel/package
